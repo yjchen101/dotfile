@@ -1,0 +1,9 @@
+.DS_Store
+.nvimlog
+.zsh_history
+.zcompdump
+.zcompcache/
+.claude/
+.codex/
+.ssh/
+.config/secrets/
